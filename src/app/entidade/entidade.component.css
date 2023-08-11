@@ -1,0 +1,11 @@
+main{
+    background-color: rgba(0, 0, 0, 0.699);
+    height:auto;
+    padding: 2rem;
+    gap: 2rem;
+    width: auto;
+    text-align: center;
+    color: white;
+    display: flex;
+    
+}
